@@ -1,6 +1,6 @@
 # AI Plant Disease Detection System
 
-## Project Overview
+# Project Overview
 
 AI Plant Disease Detection System is a deep learning-based web application that identifies plant diseases from leaf images. The system helps farmers, researchers, and agriculture enthusiasts detect crop diseases quickly and accurately using computer vision and artificial intelligence.
 
@@ -27,29 +27,29 @@ Modern Responsive UI with Streamlit
 
 # Tech Stack
 
-### Frontend
+## Frontend
 
 * Streamlit
 * HTML/CSS Styling
 
-### Backend
+## Backend
 
 * Python
 * SQLite Database
 
-### AI & Machine Learning
+## AI & Machine Learning
 
 * TensorFlow
 * Keras
 * NumPy
 * EfficientNet
 
-### Development Tools
+## Development Tools
 
 * Git
 * GitHub
 
-##  Workflow
+#  Workflow
 
 1. User registers and logs into the system.
 2. User uploads a plant leaf image.
@@ -59,7 +59,7 @@ Modern Responsive UI with Streamlit
 6. Confidence scores are displayed.
 7. Prediction history is stored in the database.
 
-## Applications
+# Applications
 
 * Smart Agriculture
 * Precision Farming
@@ -68,7 +68,7 @@ Modern Responsive UI with Streamlit
 * Agricultural Research
 * Farmer Assistance Systems
 
-## Future Enhancements
+# Future Enhancements
 
 * Mobile Application Integration
 * Multi-Language Support
@@ -77,16 +77,14 @@ Modern Responsive UI with Streamlit
 * Cloud Database Integration
 * Real-Time Camera Detection
 
-## Author
+# Author
 
 **Bandi Nagasri**
 
-Computer Science & Engineering
+B.Tech,Computer Science & Engineering
 
 AI • Machine Learning • Computer Vision • Deep Learning
 
-GitHub: https://github.com/nagasribandi
-
-## ⭐ Support
+# ⭐ Support
 
 If you found this project useful, consider giving it a star on GitHub.
