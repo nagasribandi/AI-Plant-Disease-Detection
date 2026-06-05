@@ -1,0 +1,14 @@
+.env
+profile_pics/
+uploads/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+env/
+users
+*.db
