@@ -59,6 +59,13 @@ Modern Responsive UI with Streamlit
 6. Confidence scores are displayed.
 7. Prediction history is stored in the database.
 
+# How to Run
+
+1. Install dependencies:
+pip install -r requirements.txt
+2. Run the application:
+streamlit run Dash-Board.py
+
 # Applications
 
 * Smart Agriculture
